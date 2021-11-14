@@ -1,0 +1,26 @@
+@import "../../libs/normalize-scss/sass/normalize/import-now";
+
+@import "variables";
+@import "skin";
+@import "mixins-media";
+@import "mixins";
+
+@import "common";
+
+@import "header/header";
+@import "header/header-logo";
+@import "header/header-menu";
+
+@import "main/main";
+@import "main/main-nav";
+@import "main/main-content";
+@import "main/main-content-item";
+
+@import "aside/left";
+@import "aside/right";
+
+@import "darked-boxs/darked-boxs";
+@import "darked-boxs/search";
+@import "darked-boxs/categories";
+@import "darked-boxs/news";
+@import "footer";
