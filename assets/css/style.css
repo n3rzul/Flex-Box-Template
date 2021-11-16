@@ -699,11 +699,11 @@ p {
 
     font-weight: 700;
   }
-  .header-menu__list {
-    display: flex;
-  }
   .header-menu__btn {
     display: none;
+  }
+  .header-menu__list {
+    display: flex;
   }
   .main-content__title {
     font-size: 2rem;
@@ -794,7 +794,6 @@ p {
   }
   .header-logo__description {
     letter-spacing: 0.1em;
-
     font-size: 0.875rem;
     line-height: 1.25em;
   }
